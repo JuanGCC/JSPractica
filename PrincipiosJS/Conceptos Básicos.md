@@ -170,5 +170,5 @@
       </tbody>
   </table>
 
-1. **Siguiente paso**
-    - [Condicionales y ciclos](./CondicionalesYciclos.md)
+**Siguiente paso**
+- [Condicionales y ciclos](./CondicionalesYciclos.md)
