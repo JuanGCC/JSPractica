@@ -292,7 +292,7 @@ for (let i of arr) {
 }
 ```
 ### Ciclo while
-Es muy parecido al ciclo for
+Es muy parecido al ciclo for.
 El siguiente bucle while itera mientras n es menor que tres.
 ```javascript
 let n = 0;
