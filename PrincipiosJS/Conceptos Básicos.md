@@ -213,5 +213,24 @@ Ejemplo:
 
 ### Condicional multiple (Switch)
 La expresión **`switch`** evalúa una expresión, comparando el valor de esa expresión con una instancia **`case`**
+y ejecuta declaraciones asociadas a ese **`case`**, así como las declaraciones en los **`case`** que siguen.
+##### Sintaxis 
+```javascript
+switch (expresión) {
+  case valor1:
+    //Declaraciones ejecutadas cuando el resultado de expresión coincide con el valor1
+    [break;]
+  case valor2:
+    //Declaraciones ejecutadas cuando el resultado de expresión coincide con el valor2
+    [break;]
+  ...
+  case valorN:
+    //Declaraciones ejecutadas cuando el resultado de expresión coincide con valorN
+    [break;]
+  default:
+    //Declaraciones ejecutadas cuando ninguno de los valores coincide con el valor de la expresión
+    [break;]
+}
+```
 </details>
 </p>
