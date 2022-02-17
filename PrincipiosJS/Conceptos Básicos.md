@@ -6,6 +6,8 @@
 - Array
 - Null
 - Undefined
+<!--<h3> Tipos de datos</h3>-->
+
 
   <table>
       <thead>
