@@ -1,20 +1,12 @@
 # Java Script
-## Tipos de datos
+### Tipos de datos
 - Number
 - String
 - Boolean
 - Array
 - Null
 - Undefined
-<h3> Tipos de datos</h3>
-<ol>
-<li>Number</li>
-<li>String</li>
-<li>Boolean</li>
-<li>Array</li>
-<li>Null</li>
-<li>Undefined</li>
-</ol>
+
   <table>
       <thead>
         <tr>
