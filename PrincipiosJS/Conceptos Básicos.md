@@ -1,9 +1,5 @@
 # Java Script
-## Operadores aritméticos
-|**Operador**|**Descripción** |
-| ------------- | ------------- |
-|=|Operador de Asignación|
-|+||
+
 
 <h3> Tipos de datos</h3>
 <ol>
