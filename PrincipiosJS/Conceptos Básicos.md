@@ -187,7 +187,7 @@ La condición if evalua si la condición evaluada es verdadera o falsa y su sint
   }
 ```
 Tambien se pueden anidar multiples sentencias if
-```
+```javascript
   if(Condicion1)}{
     // Acción1
   }else if(Condicion2){
