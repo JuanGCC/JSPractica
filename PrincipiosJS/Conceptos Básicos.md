@@ -2,6 +2,7 @@
 
   <!DOCTYPE html>
 <html lang="en">
+<body>
 <h3> Tipos de datos</h3>
 <ol>
 <li>Number</li>
