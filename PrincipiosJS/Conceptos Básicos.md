@@ -200,5 +200,6 @@ Tambien se pueden anidar multiples sentencias if
     //AcciónN
   }
 ```
+Dentro de las sentencias if deben ir operadores lógicos (previamente visto en el apartado `Tipos de datos y tipos de Operadores`)
 </details>
 </p>
