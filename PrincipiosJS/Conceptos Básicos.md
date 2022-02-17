@@ -1,13 +1,10 @@
 # Java Script
-## Prueba de tabla
-|Cabecera General|
+## Operadores aritméticos
+|**Operador**|**Descripción** |
 | ------------- | ------------- |
-|Operador|Tipo|
-| ------------- | ------------- |
-|+|Suma|
-  <!DOCTYPE html>
-<html lang="en">
-<body>
+|=|Operador de Asignación|
+|+||
+
 <h3> Tipos de datos</h3>
 <ol>
 <li>Number</li>
@@ -176,8 +173,7 @@
         </tr>
       </tbody>
   </table>
-</body>
-</html>
+
 1. **Programación FrontEnd**
     - [¿Qué es la programación FRONTEND?](./temario/1.-queEsFrontEnd.md)
 	- [Tecnologías aplicadas](./temario/2.-frontEndTecs.md)
