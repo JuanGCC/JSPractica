@@ -1,4 +1,7 @@
 # Java Script
+<details><summary>CLICK ME</summary>
+<p>
+
 ### Tipos de datos
 - Number
 - String
@@ -164,6 +167,8 @@
         </tr>
       </tbody>
   </table>
+
+  </p>
 
 **Siguiente paso**
 - [Condicionales y ciclos](./CondicionalesYciclos.md)
