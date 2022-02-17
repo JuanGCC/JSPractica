@@ -278,7 +278,7 @@ function dump_props(obj, obj_name) {
 ### Ciclo for...of
 La declaración **`for...of`** crea un bucle que se repite sobre objetos iterables (incluidos Array, Map, Set, objetos arguments y así sucesivamente), invocando un bucle de iteración personalizado con declaraciones que se ejecutarán para el valor de cada distinta propiedad.
 
-El siguiente ejemplo muestra la diferencia entre un bucle for...of y un bucle for...in. Mientras que for...in itera sobre los nombres de propiedad, for...of itera sobre los valores de propiedad:
+El siguiente ejemplo muestra la diferencia entre un bucle **`for...of`** y un bucle **`for...in`**. Mientras que **`for...in`** itera sobre los nombres de propiedad, **`for...of`** itera sobre los valores de propiedad:
 ```javascript
 const arr = [3, 5, 7];
 arr.foo = 'hola';
