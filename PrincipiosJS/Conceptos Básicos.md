@@ -147,4 +147,19 @@
           <td>Asignación de sustracción</td>
         </tr>
       </tbody>
+      <thead>
+        <tr>
+          <th scope="row" colspan="5">Tipos de Strings</th>
+        <tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>"", '' </td>
+          <td>Permite ingresar una cadena de texto</td>
+        </tr>
+        <tr>
+          <td>``</td>
+          <td>Permite ingresar una cadena de texto y variables mediante: `${variable}`</td>
+        </tr>
+      </tbody>
   </table>
