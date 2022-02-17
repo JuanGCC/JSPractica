@@ -219,17 +219,17 @@ y ejecuta declaraciones asociadas a ese **`case`**, así como las declaraciones 
 switch (expresión) {
   case valor1:
     //Declaraciones ejecutadas cuando el resultado de expresión coincide con el valor1
-    [break;]
+    break;
   case valor2:
     //Declaraciones ejecutadas cuando el resultado de expresión coincide con el valor2
-    [break;]
+    break;
   ...
   case valorN:
     //Declaraciones ejecutadas cuando el resultado de expresión coincide con valorN
-    [break;]
+    break;
   default:
     //Declaraciones ejecutadas cuando ninguno de los valores coincide con el valor de la expresión
-    [break;]
+    break;
 }
 ```
 </details>
