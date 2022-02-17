@@ -167,7 +167,7 @@
         </tr>
       </tbody>
   </table>
-
+</details>
   </p>
 <!--
 **Siguiente paso**
@@ -185,5 +185,5 @@
     // False
   }
 ```
-
+</details>
 </p>
