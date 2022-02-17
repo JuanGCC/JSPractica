@@ -1,4 +1,4 @@
-<h2> Java Script</h2>
+# Java Script
 <h3> Tipos de datos</h3>
 <ol>
 <li>Number</li>
