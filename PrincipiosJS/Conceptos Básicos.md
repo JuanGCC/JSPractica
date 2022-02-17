@@ -212,6 +212,6 @@ Ejemplo:
 ```
 
 ### Condicional multiple (Switch)
-La expresión `**switch**` evalúa una expresión, comparando el valor de esa expresión con una instancia `**case**`
+La expresión **`switch`** evalúa una expresión, comparando el valor de esa expresión con una instancia **`case`**
 </details>
 </p>
