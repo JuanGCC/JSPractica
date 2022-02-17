@@ -174,7 +174,7 @@
 - [Condicionales y ciclos](./CondicionalesYciclos.md) -->
 
 
-<details><summary>Tipos de datos y tipos de Operadores</summary>
+<details><summary>Condicionales</summary>
 <p>
 
 ### Condicional If
