@@ -251,3 +251,46 @@ switch (Animal) {
 ```
 </details>
 </p>
+
+<details><summary>Ciclos</summary>
+<p>
+
+### Ciclo for
+ Crea un bucle que consiste en tres expresiones opcionales, encerradas en paréntesis y separadas por puntos y comas, seguidas de una sentencia ejecutada en un bucle.
+ ```javascript
+ for (var i = 0; i < 9; i++) {
+   n += i;
+   mifuncion(n);
+}
+ ```
+### Ciclo for...in
+La instrucción **`for...in`** itera una variable especificada sobre todas las propiedades enumerables de un objeto. Para cada propiedad distinta, JavaScript ejecuta las instrucciones especificadas. Una declaración for...in tiene el siguiente aspecto:
+```javascript
+function dump_props(obj, obj_name) {
+  let result = '';
+  for (let i in obj) {
+    result += obj_name + '.' + i + ' = ' + obj[i] + '<br>';
+  }
+  result += '<hr>';
+  return result;
+}
+```
+### Ciclo for...of
+La declaración **`for...of`** crea un bucle que se repite sobre objetos iterables (incluidos Array, Map, Set, objetos arguments y así sucesivamente), invocando un bucle de iteración personalizado con declaraciones que se ejecutarán para el valor de cada distinta propiedad.
+
+El siguiente ejemplo muestra la diferencia entre un bucle for...of y un bucle for...in. Mientras que for...in itera sobre los nombres de propiedad, for...of itera sobre los valores de propiedad:
+```javascript
+const arr = [3, 5, 7];
+arr.foo = 'hola';
+
+for (let i in arr) {
+   console.log(i); // logs "0", "1", "2", "foo"
+}
+
+for (let i of arr) {
+   console.log(i); // logs 3, 5, 7
+}
+```
+
+</details>
+</p>
