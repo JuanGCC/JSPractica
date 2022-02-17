@@ -10,10 +10,6 @@
 <li>Null</li>
 <li>Undefined</li>
 </ol>
-<section>
-<h3>Type coercion</h3>
-
-</section>
   <table>
       <thead>
         <tr>
