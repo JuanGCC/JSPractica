@@ -291,6 +291,25 @@ for (let i of arr) {
    console.log(i); // logs 3, 5, 7
 }
 ```
-
+### Ciclo while
+Es muy parecido al ciclo for
+El siguiente bucle while itera mientras n es menor que tres.
+```javascript
+let n = 0;
+let x = 0;
+while (n < 3) {
+  n++;
+  x += n;
+}
+```
+###  Ciclo Do While
+En el siguiente ejemplo, el bucle **`do`** itera al menos una vez y se repite hasta que i ya no sea menor que 5.
+```javascript
+let i = 0; 
+do { 
+  i += 1; console.log(i); 
+  } 
+while (i < 5);
+```
 </details>
 </p>
