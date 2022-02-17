@@ -200,6 +200,15 @@ Tambien se pueden anidar multiples sentencias if
     //AcciónN
   }
 ```
-Dentro de las sentencias if deben ir operadores lógicos (previamente visto en el apartado `Tipos de datos y tipos de Operadores`)
+Dentro de las sentencias if deben ir operadores lógicos, relacionales.... (previamente visto en el apartado `Tipos de datos y tipos de Operadores`)
+Ejemplo:
+```
+  let edad = 18
+  if(edad >= 18){
+    console.log("Eres mayor de edad!");
+  }else{
+    console.log("Eres menor de edad");
+  }
+```
 </details>
 </p>
