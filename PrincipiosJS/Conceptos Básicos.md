@@ -167,4 +167,4 @@
         </tr>
       </tbody>
   </table>
-- [Condicionales y ciclos en js](./CondicionalesYciclos.md)
+<a href = "./CondicionalesYciclos">Condicionales y ciclos en js</a>
