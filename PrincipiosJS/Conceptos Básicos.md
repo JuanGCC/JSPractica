@@ -178,11 +178,26 @@
 <p>
 
 ### Condicional If
+La condición if evalua si la condición evaluada es verdadera o falsa y su sintaxis es:
 ```
   if(Condicion){
     // True
   }else{
     // False
+  }
+```
+Tambien se pueden anidar multiples sentencias if
+```
+  if(Condicion1)}{
+    // Acción1
+  }else if(Condicion2){
+    // Acción2
+  }else if(Condicion3){
+    // Acción3
+  }
+  ...
+  else{
+    //AcciónN
   }
 ```
 </details>
