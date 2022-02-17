@@ -2,6 +2,7 @@
 ## Prueba de tabla
 |Cabecera General|
 |Operador|Tipo|
+| ------------- | ------------- |
 |+|Suma|
   <!DOCTYPE html>
 <html lang="en">
