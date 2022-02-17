@@ -232,5 +232,21 @@ switch (expresión) {
     break;
 }
 ```
+##### Operación única con múltiples casos
+Este es un ejemplo de operación única con sentencia switch secuencial, donde cuatro valores diferentes se comportan exactamente de la misma manera:
+```javascript
+var Animal = 'Jirafa';
+switch (Animal) {
+  case 'Vaca':
+  case 'Jirafa':
+  case 'Perro':
+  case 'Cerdo':
+    console.log('Este animal subirá al Arca de Noé.');
+    break;
+  case 'Dinosaurio':
+  default:
+    console.log('Este animal no lo hará.');
+}
+```
 </details>
 </p>
