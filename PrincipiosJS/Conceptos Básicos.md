@@ -179,7 +179,7 @@
 
 ### Condicional If
 La condición if evalua si la condición evaluada es verdadera o falsa y su sintaxis es:
-```
+```javascript
   if(Condicion){
     // True
   }else{
