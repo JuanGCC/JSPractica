@@ -1,5 +1,5 @@
 # Java Script
-<details><summary>CLICK ME</summary>
+<details><summary>Tipos de datos y tipos de Operadores</summary>
 <p>
 
 ### Tipos de datos
