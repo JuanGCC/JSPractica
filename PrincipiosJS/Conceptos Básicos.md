@@ -172,3 +172,18 @@
 <!--
 **Siguiente paso**
 - [Condicionales y ciclos](./CondicionalesYciclos.md) -->
+
+
+<details><summary>Tipos de datos y tipos de Operadores</summary>
+<p>
+
+### Condicional If
+```
+  if(Condicion){
+    // True
+  }else{
+    // False
+  }
+```
+
+</p>
