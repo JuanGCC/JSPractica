@@ -232,6 +232,7 @@ switch (expresión) {
     break;
 }
 ```
+**Nota**: La declaración **`break`** es opcional y está asociada con cada etiqueta de case y asegura que el programa salga del switch una vez que se ejecute la instrucción coincidente y continúe la ejecución en la instrucción siguiente. Si se omite el  break  el programa continúa la ejecución en la siguiente instrucción en la declaración de **`switch`** .
 ##### Operación única con múltiples casos
 Este es un ejemplo de operación única con sentencia switch secuencial, donde cuatro valores diferentes se comportan exactamente de la misma manera:
 ```javascript
