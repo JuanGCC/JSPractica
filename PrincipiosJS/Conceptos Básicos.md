@@ -202,7 +202,7 @@ Tambien se pueden anidar multiples sentencias if
 ```
 Dentro de las sentencias if deben ir operadores lógicos, relacionales.... (previamente visto en el apartado `Tipos de datos y tipos de Operadores`)
 Ejemplo:
-```
+```javascript
   let edad = 18
   if(edad >= 18){
     console.log("Eres mayor de edad!");
