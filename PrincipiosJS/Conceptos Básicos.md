@@ -210,5 +210,8 @@ Ejemplo:
     console.log("Eres menor de edad");
   }
 ```
+
+### Condicional multiple (Switch)
+La expresión `**switch**` evalúa una expresión, comparando el valor de esa expresión con una instancia `**case**`
 </details>
 </p>
