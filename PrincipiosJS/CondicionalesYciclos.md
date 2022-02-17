@@ -7,7 +7,7 @@
       puts "Hello World"
     ```
 
-</details> ```</p>
+</details> </p>
 
 The Markdown will be collapsed by default.
 
