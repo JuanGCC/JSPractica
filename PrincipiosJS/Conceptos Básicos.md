@@ -169,6 +169,6 @@
   </table>
 
   </p>
-
+<!--
 **Siguiente paso**
-- [Condicionales y ciclos](./CondicionalesYciclos.md)
+- [Condicionales y ciclos](./CondicionalesYciclos.md) -->
