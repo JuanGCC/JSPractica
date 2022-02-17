@@ -159,7 +159,7 @@
         </tr>
         <tr>
           <td>``</td>
-          <td>Permite ingresar una cadena de texto y variables mediante: `${variable}`</td>
+          <td>Permite ingresar una cadena de texto y variables mediante: `${variable}` y son llamados Template String</td>
         </tr>
       </tbody>
   </table>
