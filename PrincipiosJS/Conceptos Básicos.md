@@ -1,4 +1,5 @@
 # Java Script
+## Conceptos Básicos
 <details><summary>Tipos de datos y tipos de Operadores</summary>
 <p>
 
@@ -170,8 +171,7 @@
 </details>
   </p>
 <!--
-**Siguiente paso**
-- [Condicionales y ciclos](./CondicionalesYciclos.md) -->
+ -->
 
 
 <details><summary>Condicionales</summary>
@@ -314,3 +314,6 @@ while (i < 5);
 ```
 </details>
 </p>
+
+**Siguiente paso**
+- [Funciones en JS](./CondicionalesYciclos.md)
