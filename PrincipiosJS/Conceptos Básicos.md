@@ -316,4 +316,4 @@ while (i < 5);
 </p>
 
 **Siguiente paso**
-- [Funciones en JS](./CondicionalesYciclos.md)
+- [Funciones en JS](./FuncionesJS.md)
