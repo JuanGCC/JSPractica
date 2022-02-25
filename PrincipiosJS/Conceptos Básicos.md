@@ -65,7 +65,7 @@
         </tr>
         <tr>
           <td>A--</td>
-          <td>Incrementa una cantidad posterior a su ejecución</td>
+          <td>Decrementa una cantidad posterior a su ejecución</td>
         </tr>
         <tr>
           <td>%</td>
